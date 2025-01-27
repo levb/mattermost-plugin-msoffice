@@ -3,3 +3,6 @@ server/manifest.go
 .DS_Store
 .npminstall
 .idea
+
+# notice
+.notice-work
